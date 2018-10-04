@@ -7154,4 +7154,4 @@ const Play = {
 
 }
 
-export { Play };
+module.export = Play;

@@ -194,4 +194,4 @@ const Status = {
 
 }
 
-export { Status };
+module.export = Status;

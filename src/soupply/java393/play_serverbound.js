@@ -2295,4 +2295,4 @@ const PlayServerbound = {
 
 }
 
-export { PlayServerbound };
+module.export = PlayServerbound;

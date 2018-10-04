@@ -158,4 +158,4 @@ const LoginServerbound = {
 
 }
 
-export { LoginServerbound };
+module.export = LoginServerbound;

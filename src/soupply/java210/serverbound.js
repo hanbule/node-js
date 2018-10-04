@@ -1578,4 +1578,4 @@ const Serverbound = {
 
 }
 
-export { Serverbound };
+module.export = Serverbound;

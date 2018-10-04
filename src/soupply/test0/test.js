@@ -189,4 +189,4 @@ const Test = {
 
 }
 
-export { Test };
+module.export = Test;

@@ -4934,4 +4934,4 @@ const Clientbound = {
 
 }
 
-export { Clientbound };
+module.export = Clientbound;

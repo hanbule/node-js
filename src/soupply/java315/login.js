@@ -299,4 +299,4 @@ const Login = {
 
 }
 
-export { Login };
+module.export = Login;

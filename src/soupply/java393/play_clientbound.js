@@ -5413,4 +5413,4 @@ const PlayClientbound = {
 
 }
 
-export { PlayClientbound };
+module.export = PlayClientbound;

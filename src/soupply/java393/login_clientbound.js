@@ -258,4 +258,4 @@ const LoginClientbound = {
 
 }
 
-export { LoginClientbound };
+module.export = LoginClientbound;
