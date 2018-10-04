@@ -1,0 +1,6 @@
+{
+	"name": "soupply",
+	"description": "Automatically generated libraries for encoding and decoding Minecraft protocols",
+	"version": "2.70.0",
+	"author": "sel-project"
+}
